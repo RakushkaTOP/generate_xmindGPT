@@ -136,10 +136,6 @@ def main():
         print("Структура данных для интеллект-карты:", response)
         generate_xmind_map(response, "output1.xmind")
         print("Интеллект-карта создана и сохранена как 'output1.xmind'")
-        print("Интеллект-карта создана и сохранена как 'output1.xmind'")
-        print("Интеллект-карта создана и сохранена как 'output1.xmind'")
-        print("Интеллект-карта создана и сохранена как 'output1.xmind'")
-        print("Интеллект-карта создана и сохранена как 'output1.xmind'")
     else:
         print("Не удалось получить корректный ответ от OpenAI.")
 
